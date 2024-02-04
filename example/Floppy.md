@@ -27,6 +27,8 @@ mformat c:
 
 ## Requirements
 
+| Package        | Debian                  |
+|----------------|-------------------------|
 | [Mtools][1]    | `apt install mtools`    |
 | [Coreutils][2] | `apt install coreutils` |
 | [Bash][3]      | `apt install bash`      |
