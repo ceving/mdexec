@@ -17,7 +17,7 @@ cksum src/main.rs
 
 The output should be the following:
 ```
-297368607 2950 src/main.rs
+1647957730 2915 src/main.rs
 ```
 
 ## References

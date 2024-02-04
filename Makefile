@@ -6,3 +6,6 @@ init:
 
 release:
 	cargo build --release
+
+example: release
+	target/release/mdexec README.md bash

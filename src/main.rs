@@ -62,7 +62,6 @@ fn main() {
 
     // Parse input file and send data to script program.
     let mut within_code = false;
-    //for line in reader.lines() {
     let mut line = String::new();
     loop {
         line.clear();
